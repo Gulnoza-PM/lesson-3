@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\homeworks\homw3.2\obj\Debug\net6.0\homw3.2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\homeworks\homw3.2\obj\Debug\net6.0\homw3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\homeworks\homw3.2\obj\Debug\net6.0\homw3.2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\homeworks\homw3.2\obj\Debug\net6.0\homw3.2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\homeworks\homw3.2\obj\Debug\net6.0\homw3.2.csproj.CoreCompileInputs.cache
